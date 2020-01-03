@@ -10,7 +10,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ```
 node
-yarn
+yarn or npm
 ```
 
 ### Installing
@@ -22,6 +22,11 @@ yarn
     $ cd react-movie-app
     $ yarn add
     ```
+    or
+    ```bash
+    $ cd react-movie-app
+    $ npm install
+    ```
 
 ### Run the app
 
@@ -29,5 +34,10 @@ yarn
     ```bash
     $ cd react-movie-app
     $ yarn start
+    ```
+    or
+    ```bash
+    $ cd react-movie-app
+    $ npm start
     ```
 2. Browse to `http://localhost:3000/`
